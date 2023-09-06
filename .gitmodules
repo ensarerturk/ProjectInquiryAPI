@@ -1,0 +1,6 @@
+[submodule "ProjectInquiryAPIBackend"]
+	path = ProjectInquiryAPIBackend
+	url = https://github.com/ensarerturk/ProjectInquiryAPIBackend.git
+[submodule "ProjectInquiryAPIFrontend"]
+	path = ProjectInquiryAPIFrontend
+	url = https://github.com/ensarerturk/ProjectInquiryAPIFrontend.git
